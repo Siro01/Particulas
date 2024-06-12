@@ -4,3 +4,5 @@ Comienzo del proyecto Particulas</h1>
 <br><strong>Aqui esta el enlace para la ejecucion del programa:https://siro01.github.io/Particulas/ </br></strong>
 <br><strong>
 Aqui esta el enlacce a la wiki de JavaScript: https://github.com/Siro01/Particulas.wiki.git </br></strong>
+
+<br><strong>Ahora por ultimo aqui esta la wiki del codigo HTML: https://github.com/Siro01/Particulas/wiki/Wiki-JavaScript </br></strong>
